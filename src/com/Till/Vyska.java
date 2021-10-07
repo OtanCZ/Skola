@@ -12,7 +12,7 @@ public class Vyska {
             System.out.println("lmao si trpaslík");
         }else if(vyska >= 150 && vyska <= 175){
             System.out.println("průměrný");
-        }else if(vyska > 175){
+        }else{
             System.out.println("vysoký pog");
         }
 
