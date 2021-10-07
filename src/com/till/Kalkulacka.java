@@ -1,4 +1,4 @@
-package com.Till;
+package com.till;
 
 public class Kalkulacka {
     public static void main(String[] args) {

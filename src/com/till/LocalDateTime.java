@@ -1,4 +1,4 @@
-package com.Till;
+package com.till;
 import java.time.format.DateTimeFormatter;
 
 public class LocalDateTime {

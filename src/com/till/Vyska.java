@@ -1,11 +1,10 @@
-package com.Till;
+package com.till;
 
 import java.util.Scanner;
 
 public class Vyska {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-
         int vyska = scan.nextInt();
 
         if(vyska < 150){

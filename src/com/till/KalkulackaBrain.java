@@ -1,4 +1,4 @@
-package com.Till;
+package com.till;
 
 public class KalkulackaBrain {
     public static int suma(int cislo, int cislo2){
