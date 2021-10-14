@@ -1,4 +1,4 @@
-package com.Till;
+package com.till;
 
 import java.util.Scanner;
 
